@@ -1,0 +1,10 @@
+User (5830668867) in private: "Hii"please enter a correct city !User (5830668867) in private: "Peru"The weather in Peru is :
+ Clouds ( few clouds)
+ Tempurature:16.5�C 
+ Humidity:88
+ Sunrise : 2025-04-25 06:50:18
+ Sunset : 2025-04-25 20:33:45
+
+ {'coord': {'lon': 3.042, 'lat': 36.7525}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'base': 'stations', 'main': {'temp': 292.5, 'feels_like': 291.95, 'temp_min': 284.05, 'temp_max': 292.5, 'pressure': 1016, 'humidity': 56, 'sea_level': 1016, 'grnd_level': 1010}, 'visibility': 10000, 'wind': {'speed': 0, 'deg': 0}, 'clouds': {'all': 0}, 'dt': 1745538416, 'sys': {'type': 2, 'id': 2096234, 'country': 'DZ', 'sunrise': 1745557247, 'sunset': 1745605827}, 'timezone': 3600, 'id': 2507480, 'name': 'Algiers', 'cod': 200}
+
+ 
