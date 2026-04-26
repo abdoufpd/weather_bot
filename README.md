@@ -22,7 +22,7 @@ weather-telegram-bot/
 │── README.md
 ⚙️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/your-username/weather-telegram-bot.git
+git clone https://github.com/abdoufpd/weather_bot
 cd weather-telegram-bot
 2. Install dependencies
 pip install python-telegram-bot requests
